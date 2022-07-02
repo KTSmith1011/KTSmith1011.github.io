@@ -1,0 +1,11 @@
+﻿body
+
+ul li {
+    display: inline-block;
+    border: 3px dotted purple;
+    width: 150px;
+    list-style-type: none;
+    padding: 15px 15px 15px 25px;
+    margin-top: 0;
+    margin-left: 10px;
+}
